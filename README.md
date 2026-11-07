@@ -15,14 +15,14 @@
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/> 
   </a>
   
-  <a href="https://www.t.me/codestrap97a">
+  <a href="https://www.t.me/Codeyboi">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 <!--   <a href="https://instagram.com/codestrap_abl?igshid=MzNlNGNkZWQ4Mg==
 ">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
   </a> -->
-  <a href="mailto:abolfazl.comm12@gmail.com">
+  <a href="mailto:saberi97.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Twitter Badge"/>
   </a>
 <!--   <a href="https://wa.me/qr/KDMROH3TBODPD1
@@ -45,7 +45,7 @@ I am a computer engineer (also a Back-end developer 💻).<br />I love working i
 - 🆓 In my free time, I solve problems on coding platforms and surf the Internet for useful tech article out there.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Show me the code, Talk is cheap!
-- 💬 Ask me about anything:  [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red)](mailto:abolfazl.comm12@gmail.com).
+- 💬 Ask me about anything:  [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red)](mailto:saberi97.work@gmail.com).
 
 ---
 ## 🛠️ Skills and Used Tools:\
